@@ -1,0 +1,11 @@
+{
+  "name": "read-from-backend",
+  "version": "0.1.0",
+  "description": "Read data from backend during build time",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jukka Aho",
+  "license": "MIT"
+}
